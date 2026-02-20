@@ -16,7 +16,7 @@ Cross-platform audio monitoring app with **React Native** + native Swift/Kotlin 
 - Swift AVAudioEngine + Kotlin AudioTrack integration
 - Real-time audio processing and visualization
 
-### 📷 [sPiCam](https://github.com/JustLikeFrank3/sPiCam)
+### 📷 [RetrosPiCam](https://github.com/JustLikeFrank3/RetrosPiCam)
 IoT camera system built during February 2026 - **FastAPI backend + React Native iOS**
 - Motion detection with OpenCV + Picamera2 on Raspberry Pi Zero 2 W
 - Azure Blob Storage integration with Tailscale VPN
