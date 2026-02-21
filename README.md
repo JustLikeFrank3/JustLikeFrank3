@@ -70,7 +70,3 @@ I'm the third Frank Vladimir MacBride. My grandfather was the first. He started 
 I grew up with that photograph. I didn't fully understand it until I was in the workforce myself.
 
 The `JustLikeFrank` part comes from a Less Than Jake song introduced to me by my friend Sean Evans — the most authentically himself person I've ever met. Lust for life, no pretense, no performance. Some people just stick with you.
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustLikeFrank3&show_icons=true&theme=default)
