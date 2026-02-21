@@ -1,4 +1,4 @@
-# Hey, I'm Frank MacBride 👋
+# Hey, I'm Frank MacBride!
 
 **Full-Stack Software Engineer** specializing in distributed backend systems, microservices, and cloud infrastructure. 4 years building production systems at **General Motors** (promoted to Level 6 for technical excellence).
 
@@ -10,18 +10,24 @@
 
 ## 🚀 Recent Projects
 
-### 📱 [LiveVoxNative](https://github.com/JustLikeFrank3/LiveVoxNative)
-Cross-platform audio monitoring app with **React Native** + native Swift/Kotlin modules
-- **12.7ms round-trip latency** on physical iPhone (measured with Audio Toolbox)
-- Swift AVAudioEngine + Kotlin AudioTrack integration
-- Real-time audio processing and visualization
-
 ### 📷 [RetrosPiCam](https://github.com/JustLikeFrank3/RetrosPiCam)
 IoT camera system built during February 2026 - **FastAPI backend + React Native iOS**
 - Motion detection with OpenCV + Picamera2 on Raspberry Pi Zero 2 W
 - Azure Blob Storage integration with Tailscale VPN
 - Push notifications via Expo (APNs), systemd service management
 - Shipped to TestFlight for iOS distribution
+
+### 🤖 [job-search-mcp](https://github.com/JustLikeFrank3/job-search-mcp)
+Custom MCP (Model Context Protocol) server implementing real-world GenAI agent communication
+- Structured tool routing, file management, and context retrieval at the agent protocol level
+- Powers an AI-assisted job search workflow (resume management, interview prep, application tracking)
+- Built in Python; demonstrates hands-on agentic AI architecture beyond simple prompt usage
+
+### 📱 [LiveVoxNative](https://github.com/JustLikeFrank3/LiveVoxNative)
+Cross-platform audio monitoring app with **React Native** + native Swift/Kotlin modules
+- **12.7ms round-trip latency** on physical iPhone (measured with Audio Toolbox)
+- Swift AVAudioEngine + Kotlin AudioTrack integration
+- Real-time audio processing and visualization
 
 ### ⚡ [LiveVox](https://github.com/JustLikeFrank3/LiveVox)
 Real-time audio processing web app using **Web Audio API**
