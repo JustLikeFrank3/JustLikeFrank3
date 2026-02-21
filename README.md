@@ -1,35 +1,35 @@
-# Hey, I'm Frank MacBride!
+# Hey, I'm Frank MacBride
 
 **Full-Stack Software Engineer** specializing in distributed backend systems, microservices, and cloud infrastructure. 4 years building production systems at **General Motors** (promoted to Level 6 for technical excellence).
 
-🔍 **Currently seeking:** Backend/Platform Engineering roles in distributed systems, microservices, or cloud infrastructure  
-📍 **Location:** Atlanta, GA (open to remote)  
-💼 **Experience:** Java/Spring Boot, Angular/TypeScript, PostgreSQL, Azure/Terraform, React Native
+Currently seeking: Backend/Platform Engineering roles in distributed systems, microservices, or cloud infrastructure  
+Location: Atlanta, GA (open to remote)  
+Experience: Java/Spring Boot, Angular/TypeScript, PostgreSQL, Azure/Terraform, React Native
 
 ---
 
-## 🚀 Recent Projects
+## Recent Projects
 
-### 📷 [RetrosPiCam](https://github.com/JustLikeFrank3/RetrosPiCam)
-IoT camera system built during February 2026 - **FastAPI backend + React Native iOS**
+### [RetrosPiCam](https://github.com/JustLikeFrank3/RetrosPiCam)
+IoT camera system built during February 2026 — **FastAPI backend + React Native iOS**
 - Motion detection with OpenCV + Picamera2 on Raspberry Pi Zero 2 W
 - Azure Blob Storage integration with Tailscale VPN
 - Push notifications via Expo (APNs), systemd service management
 - Shipped to TestFlight for iOS distribution
 
-### 🤖 [job-search-mcp](https://github.com/JustLikeFrank3/job-search-mcp)
+### [job-search-mcp](https://github.com/JustLikeFrank3/job-search-mcp)
 Custom MCP (Model Context Protocol) server implementing real-world GenAI agent communication
 - Structured tool routing, file management, and context retrieval at the agent protocol level
 - Powers an AI-assisted job search workflow (resume management, interview prep, application tracking)
 - Built in Python; demonstrates hands-on agentic AI architecture beyond simple prompt usage
 
-### 📱 [LiveVoxNative](https://github.com/JustLikeFrank3/LiveVoxNative)
+### [LiveVoxNative](https://github.com/JustLikeFrank3/LiveVoxNative)
 Cross-platform audio monitoring app with **React Native** + native Swift/Kotlin modules
 - **12.7ms round-trip latency** on physical iPhone (measured with Audio Toolbox)
 - Swift AVAudioEngine + Kotlin AudioTrack integration
 - Real-time audio processing and visualization
 
-### ⚡ [LiveVox](https://github.com/JustLikeFrank3/LiveVox)
+### [LiveVox](https://github.com/JustLikeFrank3/LiveVox)
 Real-time audio processing web app using **Web Audio API**
 - **2.8ms latency** for audio round-trip
 - React 19 with TypeScript
@@ -37,18 +37,18 @@ Real-time audio processing web app using **Web Audio API**
 
 ---
 
-## 💼 Professional Highlights
+## Professional Highlights
 
-**@General Motors** (Jan 2022 - Dec 2025) | Software Engineer Level 5→6
-- ✅ **98% SLA** on production forecasting app serving thousands of analysts
-- 🚀 **Single-handedly modernized** 500K+ line legacy codebase: Java 8→21, Spring Boot 2.1→3.5.4, Angular 8→18
-- ☁️ **Led Azure migration:** PCF→Container Apps + Oracle→PostgreSQL with Terraform IaC
-- 🧪 **80%+ test coverage** with JUnit/Mockito/PyTest across all projects
-- 📊 Built ETL pipelines (PySpark) for Hadoop→Greenplum data warehouse
+**General Motors** (Jan 2022 - Dec 2025) | Software Engineer Level 5 -> 6
+- 98% SLA on production forecasting app serving thousands of analysts
+- Single-handedly modernized 500K+ line legacy codebase: Java 8->21, Spring Boot 2.1->3.5.4, Angular 8->18
+- Led Azure migration: PCF -> Container Apps + Oracle -> PostgreSQL with Terraform IaC
+- 80%+ test coverage with JUnit/Mockito/PyTest across all projects
+- Built ETL pipelines (PySpark) for Hadoop -> Greenplum data warehouse
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend:** Java, Spring Boot, Python, FastAPI, RESTful APIs, Microservices  
 **Databases:** PostgreSQL, Oracle, MySQL, Redis  
@@ -59,11 +59,11 @@ Real-time audio processing web app using **Web Audio API**
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/frankvmacbride)
-- 📧 frankvmacbride@gmail.com
-- 📱 +1.305.490.1262
+- [LinkedIn](https://linkedin.com/in/frankvmacbride)
+- frankvmacbride@gmail.com
+- +1.305.490.1262
 
 ---
 
