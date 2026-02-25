@@ -17,7 +17,7 @@ IoT camera system built during February 2026 — **FastAPI backend + React Nativ
 - Push notifications via Expo (APNs), systemd service management
 - Shipped to TestFlight for iOS distribution
 
-### [job-search-mcp](https://github.com/JustLikeFrank3/job-search-mcp)
+### [jobContextMCP](https://github.com/JustLikeFrank3/jobContextMCP)
 Custom MCP (Model Context Protocol) server implementing real-world GenAI agent communication
 - Structured tool routing, file management, and context retrieval at the agent protocol level
 - Powers an AI-assisted job search workflow (resume management, interview prep, application tracking)
