@@ -1,10 +1,10 @@
 # Hey, I'm Frank MacBride
 
-Full-Stack Software Engineer. 4 years at General Motors, Level 6, building systems that had to work.
+Full-stack software engineer. Four years at General Motors, Level 6. Laid off December 2025, currently looking.
 
-I'm the kind of engineer who restores a CI/CD pipeline broken for three years not because it was my ticket, but because it was blocking everyone. Who takes on a 500K-line legacy codebase solo because someone had to. Who couldn't sleep the week our team got Copilot access because I wanted to fix everything and kept finding more things.
+At some point I spent several weeks modernizing a 500K-line codebase -- Java, Spring Boot, Angular -- that wasn't my project and wasn't in the backlog. I requested the user stories in standup so there'd be a paper trail. Nobody asked me to do any of it. It just felt like it should be done.
 
-Currently looking. Atlanta-based, remote preferred.
+Atlanta-based. Remote or hybrid -- I'll put pants on sometimes.
 
 ---
 
