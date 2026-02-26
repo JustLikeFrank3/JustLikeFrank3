@@ -22,11 +22,15 @@ IoT camera system built in 6 days to see if I could coordinate hardware, mobile,
 
 Turns out I could.
 
-### [LiveVoxNative](https://github.com/JustLikeFrank3/LiveVoxNative)
-React Native + Swift AVAudioEngine. **12.7ms round-trip latency** on a physical iPhone. When I say I pick up new stacks fast, this is what I mean.
-
 ### [LiveVox](https://github.com/JustLikeFrank3/LiveVox)
-Web Audio API. **2.8ms latency**. React 19 + TypeScript. Same story.
+Web Audio API. **2.8ms latency**. React 19 + TypeScript.
+
+The origin: I used to bartend in South Beach and ride a fixed gear bike everywhere with over-ear headphones, because I was very cool. I'd pull up somewhere mid-song, singing along full volume, completely unaware of how loud I was because I couldn't hear myself at all. One too many times I got off that bike sounding like a jackass and thought -- why can't you just feed the microphone into the headphone mix so you can hear your own voice?
+
+That's the whole app. Mic monitoring with independent volume control, mixed in with whatever's already playing -- Apple Music, Spotify, anything. Turns out solving it properly gets interesting fast.
+
+### [LiveVoxNative](https://github.com/JustLikeFrank3/LiveVoxNative)
+Same idea, React Native + Swift AVAudioEngine. **12.7ms round-trip latency** on a physical iPhone.
 
 ---
 
