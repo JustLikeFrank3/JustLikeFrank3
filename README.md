@@ -1,78 +1,139 @@
 # Hey, I'm Frank MacBride
 
-**Full-Stack Software Engineer** specializing in distributed backend systems, microservices, and cloud infrastructure. 4 years building production systems at **General Motors** (promoted to Level 6 for technical excellence).
+Full-Stack Software Engineer. 4 years at General Motors, Level 6, building systems that had to work.
 
-Currently seeking: Backend/Platform Engineering roles in distributed systems, microservices, or cloud infrastructure  
-Location: Atlanta, GA (open to remote)  
-Experience: Java/Spring Boot, Angular/TypeScript, PostgreSQL, Azure/Terraform, React Native
+I'm the kind of engineer who restores a CI/CD pipeline broken for three years not because it was my ticket, but because it was blocking everyone. Who takes on a 500K-line legacy codebase solo because someone had to. Who couldn't sleep the week our team got Copilot access because I wanted to fix everything and kept finding more things.
+
+Currently looking. Atlanta-based, remote preferred.
 
 ---
 
-## Recent Projects
-
-### [RetrosPiCam](https://github.com/JustLikeFrank3/RetrosPiCam)
-IoT camera system built during February 2026 — **FastAPI backend + React Native iOS**
-- Motion detection with OpenCV + Picamera2 on Raspberry Pi Zero 2 W
-- Azure Blob Storage integration with Tailscale VPN
-- Push notifications via Expo (APNs), systemd service management
-- Shipped to TestFlight for iOS distribution
+## What I've Been Building Since December
 
 ### [jobContextMCP](https://github.com/JustLikeFrank3/jobContextMCP)
-Custom MCP (Model Context Protocol) server implementing real-world GenAI agent communication
-- Structured tool routing, file management, and context retrieval at the agent protocol level
-- Powers an AI-assisted job search workflow (resume management, interview prep, application tracking)
-- Built in Python; demonstrates hands-on agentic AI architecture beyond simple prompt usage
+Started because Copilot kept asking me to reintroduce myself every session. Turned into a 30-tool MCP server with resume generation, cover letter PDF export, rejection tracking, STAR story engine, RAG semantic search across all my materials, outreach drafting in my actual voice, and a daily digest that tells me who I haven't followed up wit# Hey, I'm Frank MacBride
 
-### [LiveVoxNative](https://github.com/JustLikeFrank3/LiveVoxNative)
-Cross-platform audio monitoring app with **React Native** + native Swift/Kotlin modules
-- **12.7ms round-trip latency** on physical iPhone (measured with Audio Toolbox)
-- Swift AVAudioEngine + Kotlin AudioTrack integration
-- Real-time audio processing and visualization
-
-### [LiveVox](https://github.com/JustLikeFrank3/LiveVox)
-Real-time audio processing web app using **Web Audio API**
-- **2.8ms latency** for audio round-trip
-- React 19 with TypeScript
-- Cross-platform architecture (web + mobile)
+Full-Stack Softwe 
+Full-Stack Software Enga p
+I'm the kind of engineer who restores a CI/CD pipeline broken for three years not because it was mred
+Currently looking. Atlanta-based, remote preferred.
 
 ---
 
-## Professional Highlights
+## What I've Been Building Since December
 
-**General Motors** (Jan 2022 - Dec 2025) | Software Engineer Level 5 -> 6
-- 98% SLA on production forecasting app serving thousands of analysts
-- Single-handedly modernized 500K+ line legacy codebase: Java 8->21, Spring Boot 2.1->3.5.4, Angular 8->18
-- Led Azure migration: PCF -> Container Apps + Oracle -> PostgreSQL with Terraform IaC
-- 80%+ test coverage with JUnit/Mockito/PyTest across all projects
-- Built ETL pipelines (PySpark) for Hadoop -> Greenplum data warehouse
+### [jobContextMCP](https://github.com/JustLikeFrank3/jobContextMCP)
+Started because Copilot kept asking me to reintroduce myself every session. Turned into a 30-tool MCP server with resume generation, cover letter PDF export, reject.
+
 
 ---
 
-## Tech Stack
+## What I've Been Building Since December
 
-**Backend:** Java, Spring Boot, Python, FastAPI, RESTful APIs, Microservices  
-**Databases:** PostgreSQL, Oracle, MySQL, Redis  
-**Cloud:** Azure (Container Apps, App Insights), Terraform, Kubernetes, Docker  
-**Frontend:** Angular, TypeScript, React, React Native  
-**Mobile:** Swift, Kotlin, Expo  
-**Testing:** JUnit, Mockito, Jest, PyTest, TDD
-
----
-
-## Let's Connect
-
-- [LinkedIn](https://linkedin.com/in/frankvmacbride)
-- frankvmacbride@gmail.com
-- +1.305.490.1262
+#thu
+#com
+### [jobContextMCP](https://github.com/iveStaSwift AVAudioEngine. **12.7ms round-trip latency** on a physical i
+Full-Stack Softwe 
+Full-Stack Software Enga p
+I'm the kind of engineer who restores a CI/CD pipeline broken for three years not because it was mred
+Currently looking. Atlanta-based, remote preferred.
 
 ---
 
-## A Note on the Name
+## What I've Been Building Since December
 
-`JustLikeFrank3` means two things.
+### [jobContextMCP](https://github.com/JustLikeFrank3/jobContextMCP)
+Started because Copilot kept asking me to reinted 500K+ lines solo: JI'm the kind of engineer .2Currently looking. Atlanta-based, remote preferred.
 
-I'm the third Frank Vladimir MacBride. My grandfather was the first. He started working at a Ford dealership in Philadelphia in 1930 — sixteen years old, in the teeth of the Depression, making ten cents an hour. By nineteen he was service manager. He kept that for fifty years. Above my home office desk hangs a 1933 photograph of him and his team — three of the four men in clean white service coats. Immaculate, despite the work they did every day. I was told that was intentional: when a customer asked for the manager, the white coat had to be spotless.
+---
 
-I grew up with that photograph. I didn't fully understand it until I was in the workforce myself.
+## What I've Been Building Since December
+nt
+---
 
-The `JustLikeFrank` part comes from a Less Than Jake song introduced to me by my friend Sean Evans — the most authentically himself person I've ever met. Lust for life, no pretense, no performance. Some people just stick with you.
+## What I've Been Building Since December
+
+# to
+#5% 
+### [jobContextMCP](https://github.com/en
+Started because Copilot kept asking me to reintroduce myself every ad
+
+---
+
+## What I've Been Building Since December
+
+#thu
+#com
+### [jobContextMCP](https://github.com/iveStaSwift AVs  
+**Cloud:** Azure (Container Apps, App Insights), Te
+#afo
+#thu
+#com
+### [jobContextMCP](https://gngu#co, ###eSFull-Stack Softwe 
+Full-Stack Software Enga p
+I'm the kind of engineer who restores a CI/CD pipeline broken fo  Full-Stack SoftwaitI'm the kind of enginee, TDCurrently looking. Atlanta-based, remote preferred.
+
+---
+
+## What I've Been Building Since December
+l.
+---
+
+## What I've Been Building Since December
+
+#
+`J
+#tLi
+### [jobContextMCP](https://github.com/rd Started because Copilot kept asking me to reinted 500K+ lines solo:or
+---
+
+## What I've Been Building Since December
+nt
+---
+
+## What I've Been Building Since December
+
+# to
+#5% 
+### [jobContextMCP](https://github.cowas
+#ervnt
+---
+
+## What I've Been Building Sinces.-
+I
+#idn
+# to
+#5% 
+### [jobContextMCP](https://gl I was ###und 33 — after he'd died — when I rode m
+---
+
+## What I've Been Building Since December
+
+#thu
+#com
+### [jobCbou
+ my 
+#thu
+#com
+### [jobContextMCP](https://goto#coth### i**Cloud:** Azure (Container Apps, App Insights), Te
+#afco#afo
+#thu
+#com
+### [jobContextMCP](https://gngu#conow wha#coo ###wiFull-Stack Software Enga p
+I'm the kind of engineer who resusI'm the kind of engineer om
+---
+
+## What I've Been Building Since December
+l.
+---
+
+## What I've Been Building Since December
+
+#
+`J
+#tLi
+### [jobContextMCP](https://github.com/rd Started bece. 
+#me l.
+---
+
+## What I've Been .
