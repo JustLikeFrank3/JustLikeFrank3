@@ -56,7 +56,6 @@ Web Audio API. **2.8ms latency**. React 19 + TypeScript. Same story.
 
 - [LinkedIn](https://linkedin.com/in/frankvmacbride)
 - frankvmacbride@gmail.com
-- +1.305.490.1262
 
 ---
 
