@@ -64,10 +64,14 @@ Web Audio API. **2.8ms latency**. React 19 + TypeScript. Same story.
 
 `JustLikeFrank3` means two things.
 
-I'm the third Frank Vladimir MacBride. My grandfather was the first. He started working at a Ford dealership in Philadelphia in 1930 -- sixteen years old, in the teeth of the Depression, making ten cents an hour. By nineteen he was service manager. He kept that for fifty years.
+I'm the third Frank Vladimir MacBride. My grandfather was the first. He started at a Ford dealership in Philadelphia in 1930 -- sixteen years old, Depression-era, ten cents an hour. By nineteen he was service manager. He kept it for fifty years.
 
-I didn't fully understand what that meant until I was around 33 -- after he'd died -- when I rode my first Harley out to visit his old shop. The owner told me things about my grandfather I'd never heard. I took a photo with my iPhone that day: four men, 1933, three in white service coats. My grandfather's is the cleanest.
+Growing up I knew his shop the way a kid knows a place -- I was there, I knew the people, I knew what he did. What I didn't know was who he was to the people who worked alongside him.
 
-I didn't know what to do with any of that until I was in the workforce myself.
+I found that out around 33, after he'd died, when I rode my first Harley out to see Mr. Barlow. Somewhere in the visit, he told me that me pulling up on a Harley was a flashback -- my father used to do the same.
+
+There's a 1933 photograph in my home office now. I took it with my iPhone that day. Four men in white service coats. My grandfather's is the cleanest.
+
+I think about that whenever I'm asked to describe my work ethic.
 
 The `JustLikeFrank` part comes from a Less Than Jake song introduced to me by my friend Sean Evans -- the most authentically himself person I've ever met. Lust for life, no pretense, no performance. Some people just stick with you.
