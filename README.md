@@ -1,6 +1,6 @@
 # Hey, I'm Frank MacBride
 
-Full-stack software engineer. Four years at General Motors, Level 6. Laid off December 2025, currently looking.
+AI & Full-Stack Engineer | MCP · RAG · Azure/AKS | Building tools that actually get used | Atlanta, GA
 
 At some point I spent several weeks modernizing a 500K-line codebase -- Java, Spring Boot, Angular -- that wasn't my project and wasn't in the backlog. I requested the user stories in standup so there'd be a paper trail. Nobody asked me to do any of it. It just felt like it should be done.
 
@@ -13,9 +13,11 @@ Atlanta-based. Remote or hybrid -- I'll put pants on sometimes.
 ### [jobContextMCP](https://github.com/JustLikeFrank3/jobContextMCP)
 Started because Copilot kept asking me to reintroduce myself every session. Turned into a 30-tool MCP server with resume generation, cover letter PDF export, rejection tracking, STAR story engine, RAG semantic search across all my materials, outreach drafting in my actual voice, and a daily digest that tells me who I haven't followed up with.
 
-490 people cloned it. I'm still a little surprised by that.
+Somewhere north of 2,500 clones. Honestly lost count.
 
 Not a product. Not a startup idea. A tool I built because I needed it — and apparently so did a few hundred other people.
+
+That changed. It's now a hosted multi-tenant SaaS platform running on AKS — custom domain, Ingress/TLS, full tenant isolation. Still free while I find the right beta testers. If you're job hunting and want early access, reach out.
 
 ### [RetrosPiCam](https://github.com/JustLikeFrank3/RetrosPiCam)
 IoT camera system built in 6 days to see if I could coordinate hardware, mobile, and cloud in one system. FastAPI + React Native iOS + Raspberry Pi Zero 2 W + servo HAT + Azure Blob Storage + Tailscale VPN + APNs push notifications. Shipped to TestFlight.
@@ -47,8 +49,9 @@ Same idea, React Native + Swift AVAudioEngine. **12.7ms round-trip latency** on 
 
 ## Tech Stack
 
+**AI/ML:** MCP Protocol, LangGraph, RAG / Semantic Search, OpenAI API, Prompt Engineering
 **Backend:** Java, Spring Boot, Python, FastAPI, Microservices
-**Cloud:** Azure (Container Apps, App Insights), Terraform, Kubernetes, Docker
+**Cloud:** Azure (AKS, Container Apps, App Insights), Terraform, Kubernetes, Docker
 **Frontend:** Angular, TypeScript, React, React Native
 **Mobile:** Swift, Kotlin, Expo
 **Databases:** PostgreSQL, Oracle, MySQL, Redis
