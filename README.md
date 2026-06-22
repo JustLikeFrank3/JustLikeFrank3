@@ -2,6 +2,8 @@
 
 AI & Full-Stack Engineer | MCP · RAG · Azure/AKS | Building tools that actually get used | Atlanta, GA
 
+Laid off in December 2025 from General Motors... actively looking.
+
 At some point I spent several weeks modernizing a 500K-line codebase -- Java, Spring Boot, Angular -- that wasn't my project and wasn't in the backlog. I requested the user stories in standup so there'd be a paper trail. Nobody asked me to do any of it. It just felt like it should be done.
 
 Atlanta-based. Remote or hybrid -- I'll put pants on sometimes.
